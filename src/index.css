@@ -1,0 +1,18 @@
+
+
+
+
+.img {
+    width: 35;
+    border-radius: 20%;
+  }
+  
+  .form-control{
+    background-color:beige;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 1rem;
+  
+  }
+  
